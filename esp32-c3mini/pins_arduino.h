@@ -4,7 +4,7 @@
 #include <stdint.h>
 #include "soc/soc_caps.h"
 
-// This is the pins_arduino code for ESP32-C3Mini
+// This is the pins_arduino code for ESP32-C3-Mini
 
 // BUILTIN_LED can be used in new Arduino API digitalWrite() like in Blink.ino
 static const uint8_t LED_BUILTIN = 8;
